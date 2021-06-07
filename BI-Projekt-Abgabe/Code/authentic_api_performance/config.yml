@@ -1,0 +1,5 @@
+---
+coordinates_name_file: "data/200624_Bahnhofsliste.xlsx"
+city_types:
+city_names:
+num_samples: 10000
